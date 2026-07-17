@@ -57,7 +57,7 @@ section {
     h1 {
       text-transform: uppercase;
       font-style: italic;
-      font-size: clamp(4rem, 12vw, 14vw); /* Scalable font with a safe bottom boundary */
+      font-size: clamp(2.5rem, 12vw, 14vw); /* Scalable font with a safe bottom boundary */
       transform: scaleY(1.1);
       color: transparent;
       -webkit-text-stroke: clamp(1px, 0.15vw, 2px) #ffffff7c;
